@@ -4,7 +4,7 @@
 import os, sys
 import readline
 from time import sleep as timeout
-from Allincore import *
+from AllinCore import *
 
 print("Digital-Wolf")
 print("Authour:CjE")
